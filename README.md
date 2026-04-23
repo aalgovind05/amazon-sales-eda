@@ -1,4 +1,3 @@
-
 # Amazon India Sales — Exploratory Data Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
@@ -24,3 +23,35 @@ demand trends across Indian states and cities.
 - 🔹 Finding 3
 
 ## Project Structure
+amazon-sales-eda/
+│
+├── data/
+│   ├── Amazon_Sale_Report.csv   # Original dataset
+│   └── amazon_cleaned.csv       # Cleaned version
+│
+├── notebooks/
+│   ├── 01_data_cleaning.ipynb
+│   └── 02_eda_analysis.ipynb
+│
+├── images/                      # Chart exports
+├── requirements.txt
+└── README.md
+
+## Tools & Libraries
+| Tool | Purpose |
+|------|---------|
+| Python 3.11 | Core language |
+| Pandas | Data cleaning & manipulation |
+| NumPy | Numerical operations |
+| Seaborn | Statistical visualizations |
+| Matplotlib | Chart customization |
+| Jupyter Notebook | Development environment |
+
+## Dataset
+Amazon India Sales dataset — 128,975 orders across multiple
+categories, sizes, and shipping locations across India.
+Source: [Kaggle](https://www.kaggle.com/)
+
+## Author
+**Govind** — Data Analyst
+[GitHub](https://github.com/aalgovind05)
