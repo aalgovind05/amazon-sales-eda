@@ -17,10 +17,7 @@ demand trends across Indian states and cities.
 - Are there outliers or anomalies in pricing?
 
 ## Key Findings
-*(Updated as analysis progresses)*
-- 🔹 Finding 1
-- 🔹 Finding 2
-- 🔹 Finding 3
+
 
 ## Project Structure
 amazon-sales-eda/
