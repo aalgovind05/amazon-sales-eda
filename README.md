@@ -128,4 +128,4 @@ In this project I focused on:
 ## Author
 
 **Govind** — Data Analyst  
-[GitHub](https://github.com/aalgovind05)
+[GitHub](https://github.com/aalgovind05) • [LinkedIn](https://linkedin.com/in/aal-govind-4b2413279)
